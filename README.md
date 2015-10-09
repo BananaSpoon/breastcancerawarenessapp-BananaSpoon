@@ -1,5 +1,6 @@
 #Breast Cancer Awareness App
 Angeles, Dominguez, Leong
+(It only has the MAIN MENU)
 
 This app is intended to raise awareness of breast cancer.
 
