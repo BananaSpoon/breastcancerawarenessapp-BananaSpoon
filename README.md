@@ -1,4 +1,4 @@
-#Breast Cancer Awareness App
+#Breast Cancer Awareness App (MAIN MENU)
 Angeles, Dominguez, Leong
 (It only has the MAIN MENU)
 
